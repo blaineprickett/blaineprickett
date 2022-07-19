@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and software development. 
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me: BlainePrickett.com
+- 📫 How to reach me: http://BlainePrickett.com
 
 <!---
 blaineprickett/blaineprickett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
