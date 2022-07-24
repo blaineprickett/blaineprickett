@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blaineprickett
 - 👀 I’m interested in data science and software development. 
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning my way around Git and python.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me: http://BlainePrickett.com
 
