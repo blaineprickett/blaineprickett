@@ -1,4 +1,4 @@
-#Hello!
+<h1>Hello!</h1>
 ---
 - 👋 Hi, I’m @blaineprickett
 - 👀 I’m interested in software development and automating everything 
