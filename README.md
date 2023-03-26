@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
----
 <h2> 👋 Hi, I’m @blaineprickett</h2>
+<hr>
 - 👀 I’m interested in software development and automating everything <br>
 - 🌱 I’m currently learning my way around python, JavaScript, and C#. <br>
 - 💞️ I’m looking to learn and connect <br>
