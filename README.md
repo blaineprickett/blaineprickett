@@ -1,3 +1,5 @@
+#Hello!
+---
 - 👋 Hi, I’m @blaineprickett
 - 👀 I’m interested in software development and automating everything 
 - 🌱 I’m currently learning my way around python, JavaScript, and C#.
