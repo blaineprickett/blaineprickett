@@ -4,6 +4,8 @@
 
 - 👀 I’m interested in automating everything <br>
 - 🌱 I’m currently learning my way around python, JavaScript, and C#. <br>
+
+<h2> Contact:</h2>
 - 📫 How to reach me: http://BlainePrickett.com <br>
 
 <!---
