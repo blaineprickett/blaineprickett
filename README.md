@@ -2,7 +2,7 @@
 I'm Blaine Prickett, a girl dad, developer, photo maker, skateboarder, and fly fisherman living in Birmingham, Alabama.
 
 ## Right Now
-* I’m interested in automating everything 
+* I’m interested in automating everything at work and home.
 * Currently, I'm participating in the [TrueCoders](https://github.com/truecodersio) FullStack Software Engineering Bootcamp and [CS50's](https://github.com/cs50) Web Programming with Python and JavaScript course.
 
 <h2>Contact Me</h2>
