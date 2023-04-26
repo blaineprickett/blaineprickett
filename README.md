@@ -1,7 +1,7 @@
-#Hello!
+# Hello!
 I'm Blaine Prickett, a girl dad, developer, photo maker, skateboarder, and fly fisherman. 
 
-##Right Now
+## Right Now
 * I’m interested in automating everything 
 * Currently, I'm participating in the TrueCoders FullStack Software Engineering course and CS50's Web Programming with Python and JavaScript course.
 
