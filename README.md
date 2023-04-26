@@ -1,7 +1,6 @@
 <h1>Hello!</h1>
-
+___
 <h3>Hi, I’m @blaineprickett</h3>
----
 
 - I’m interested in automating everything <br/>
 - Currently, I'm participating in the TrueCoders FullStack Software Engineering course and CS50's Web Programming with Python and JavaScript course.
