@@ -7,7 +7,7 @@
 - Currently, I'm participating in the TrueCoders FullStack Software Engineering course and CS50's Web Programming with Python and JavaScript course.
 
 <h2>Contact Me</h2>
-- 📫 How to reach me: http://BlainePrickett.com <br>
+- 📫 How to reach me: https://www.BlainePrickett.com/contact <br>
 
 <!---
 blaineprickett/blaineprickett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
