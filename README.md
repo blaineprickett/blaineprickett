@@ -1,6 +1,7 @@
 <h1>Hello!</h1>
-<h3>Hi, I’m @blaineprickett</h3>
+I'm Blaine Prickett, a girl dad, developer, photo maker, skateboarder, and fly fisherman. 
 
+<h2>Right Now</h2>
 - I’m interested in automating everything <br/>
 - Currently, I'm participating in the TrueCoders FullStack Software Engineering course and CS50's Web Programming with Python and JavaScript course.
 
