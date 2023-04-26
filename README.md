@@ -1,11 +1,12 @@
 <h1>Hello!</h1>
 
-<h2> 👋 Hi, I’m @blaineprickett</h2>
+<h3>Hi, I’m @blaineprickett</h3>
+---
 
-- 👀 I’m interested in automating everything <br>
-- 🌱 I’m currently learning my way around python, JavaScript, and C#. <br>
+- I’m interested in automating everything <br/>
+- Currently, I'm participating in the TrueCoders FullStack Software Engineering course and CS50's Web Programming with Python and JavaScript course.
 
-<h2> Contact:</h2>
+<h2>Contact Me</h2>
 - 📫 How to reach me: http://BlainePrickett.com <br>
 
 <!---
