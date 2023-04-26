@@ -1,5 +1,4 @@
 <h1>Hello!</h1>
-
 <h3>Hi, I’m @blaineprickett</h3>
 
 - I’m interested in automating everything <br/>
