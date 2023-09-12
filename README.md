@@ -1,5 +1,5 @@
 # Hello!
-I'm Blaine Prickett - a girl dad, developer, photo maker, skateboarder, and fly fisherman living in Birmingham, Alabama.
+I'm Blaine - a girl dad, developer, photo maker, skateboarder, and fly fisherman living in Birmingham, Alabama.
 
 <h2>Contact Me</h2>
 📫 How to reach me: https://www.BlainePrickett.com/contact <br>
